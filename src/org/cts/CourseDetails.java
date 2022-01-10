@@ -23,7 +23,7 @@ public class CourseDetails {
 		CourseDetails c = new CourseDetails();
 		
 		// Method calling
-		c.javaCourse();
+		c.pythonCourse();
 		c.pythonCourse();
 		
 	}
