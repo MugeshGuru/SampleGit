@@ -12,6 +12,7 @@ public class CourseDetails {
 
 	private void pythonCourse() {
 		
+		System.out.println("Hi");
 		System.out.println("Python Class");
 	}
 	
